@@ -1,0 +1,15 @@
+# Large Model Files
+*.keras
+*.h5
+*.pkl
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual Environment
+venv/
+.venv/S
